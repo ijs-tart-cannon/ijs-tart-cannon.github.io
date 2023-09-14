@@ -1,6 +1,6 @@
 # ij.start.canon 
 
-[![ij.start.canon](start-now.gif)](https://ij-start-cannon.com/)
+
 
 **Canon printer software** includes a set of computer programs provided by Canon to enable printer communication and enhance functionality. It includes drivers, utility tools, scanning software, and mobile printing apps that simplify printer management and use. Just click on [https://ij.start.canon]() to get complete details of Canon printer software.
 
